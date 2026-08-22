@@ -1,0 +1,11 @@
+
+软件架构风格
+ABSD 方法是由体系结构驱动的，即指由构成体系结构的商业、质量和功能需求的组合驱动 看不懂 里面一堆
+软件
+软件架构评估方法
+ 基于场景的SAAM  Software Architecture Analysis Method 关注的主要质量属性是可修改性，
+ Architecture Tradeoff Analysis Method架构权衡分析方法 ATAM 方法 对性能、可用性、安全性和可修改性
+ 引入了更高级的效用树（Utility Tree）和敏感点/权衡点（Sensitivity/Tradeoff Points）的概念。效用树将质量属性细化为具体的、可度量的场景，并评估其优先级；敏感点和权衡点则帮助团队发现哪些架构决策对某个属性影响最大，以及哪些决策会导致属性间的冲突。
+CBAM（Cost Benefit Analysis Method，成本效益分析方法 CBAM 协助相关方根据投资回报率（ROI）来选择最优架构策略
+
+RAID 的全称是 Redundant Array of Independent Disks（独立磁盘冗余阵列）。简单说，它是一项“用多块硬盘组队干活”的技术。
